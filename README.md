@@ -52,8 +52,8 @@ Currently a **Senior Software Engineer at PT. Bank Negara Indonesia (BNI)**, whe
 ### GitHub Stats
 <p align="left">
   <a href="https://github.com/quenzvezda">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=quenzvezda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=quenzvezda&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="170em" src="https://github-stats-extended.vercel.app/api?username=quenzvezda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
+    <img height="170em" src="https://streak-stats.demolab.com/?user=quenzvezda&theme=tokyonight" alt="GitHub streak"/>
   </a>
 </p>
 
