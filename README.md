@@ -46,8 +46,8 @@ Currently a **Senior Software Engineer at PT. Bank Negara Indonesia (BNI)**, whe
 | --- | --- | --- |
 | [**Telemetrix**](https://github.com/quenzvezda/Telemetrix) | Industrial telemetry pipeline with OPC UA and MQTT ingestion, Kafka event streaming, and Grafana observability. | C#, .NET, Kafka, TimescaleDB |
 | [**Baton**](https://github.com/quenzvezda/baton) | Workflow engine and automations platform with versioned C# DAG workflows, host-group routing, and fenced leases, coordinated through PostgreSQL alone. | .NET 10, gRPC, Blazor, PostgreSQL |
-| [**Lajur**](https://github.com/quenzvezda/lajur) | Personal finance app with an offline-first Android client, on-device receipt scanning, and a web app, keeping an Excel workbook as the source of truth. · [Live](https://lajur.solusi-program.site) | C#, Android, Web |
-| [**Solusi ERP**](https://github.com/quenzvezda/solusi-erp) | ERP system covering accounting, procurement, inventory, and accounts payable, built as a learning platform for modern ERP development. · [Live](https://app.solusi-program.site) | Java, Spring Boot, Thymeleaf |
+| [**Lajur**](https://github.com/quenzvezda/lajur) | Personal finance app with an offline-first Android client, on-device receipt scanning, and a web app, keeping an Excel workbook as the source of truth. · [Live](https://lajur.solusi-program.online) | C#, Android, Web |
+| [**Solusi ERP**](https://github.com/quenzvezda/solusi-erp) | ERP system covering accounting, procurement, inventory, and accounts payable, built as a learning platform for modern ERP development. · [Live](https://app.solusi-program.online) | Java, Spring Boot, Thymeleaf |
 
 ### GitHub Stats
 <p align="left">
